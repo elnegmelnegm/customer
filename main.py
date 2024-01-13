@@ -49,9 +49,8 @@ st.link_button("Chat App with a Variety of Tasks", "https://evastauxeasqz3wahcrv
 #st.link_button("Assay Calculations App ", "https://elnegmelnegm-first-app-ydrlh3.streamlit.app/", use_container_width= True, help="This application enables users to calculate the assay. هذا التطبيق يمكن المستخدمين من حساب نسبة المادة ")
 
 #st.link_button("Molar Mass Calculator App ", "https://elnegmelnegm-molar-mass-application-app2-ck9xdr.streamlit.app/", use_container_width= True, help="This application enables users to calculate weight. هذا التطبيق يمكن المستخدمين من حساب الوزن  ")
-st.markdown('''
-      ''', unsafe_allow_html=True)
-st.link_button("Information about used model", "https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf", use_container_width= True)
+
+st.link_button("Information about used model", "https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf", type="primary",use_container_width= True)
 
 
 
