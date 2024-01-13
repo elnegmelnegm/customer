@@ -14,7 +14,7 @@ st.markdown('''
 st.title ("EDA trusted Center")
 st.markdown('''
      ''', unsafe_allow_html=True)
-st.video("https://drive.google.com/file/d/1cshOi6EJ82F4hBwzGXio-Rt_i1tocMgL/view")
+st.video("https://pixabay.com/en/videos/star-long-exposure-starry-sky-sky-6962/")
 
 
 st.link_button("للاستفسار عن معلومات دوائية موثوقة", "https://edaegypt.gov.eg/ar/%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A7%D8%AA/%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%81%D8%B3%D8%A7%D8%B1-%D8%B9%D9%86-%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D8%AF%D9%88%D8%A7%D8%A6%D9%8A%D8%A9-%D9%85%D9%88%D8%AB%D9%88%D9%82%D8%A9/", use_container_width= True, help="تتيح هذه الخدمة للمواطن إمكانية طلب استشارة دوائية أو الاستفسار عن اي معلومة تتعلق بالأدوية والمستحضرات الصيدلية؛ حيث يقوم فريق متخصص من مركز المعلومات الدوائية المصري التابع  للإدارة المركزية للرعاية الصيدلية بهيئة الدواء المصرية بالرد على كافة الاستفسارات الواردة، وتقديم المعلومة الدوائية باستخدام أسلوب منهجي وفقًا لحالة كل مستفسر")
