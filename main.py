@@ -47,7 +47,7 @@ st.link_button("تطبيق دليل التغذية لمرضى السكروالض
 
 #st.link_button("Alternative HPLC Columns App ", "https://all-columns-hfhgedeitmrzrhrlujtvoc.streamlit.app/", use_container_width= True, help=" هذا التطبيق يمكن المستخدمين من اختيار البدائل لاعمدة الفصل")
 
-st.link_button("تطبيق التفاعل مع الذكاء الاصطناعي بمهام متعددة", "https://evastauxeasqz3wahcrvmh.streamlit.app/", use_container_width= True, help="  هذا التطبيق يمكن المستخدمين من الاجابة على الاسئلة ")
+#st.link_button("تطبيق التفاعل مع الذكاء الاصطناعي بمهام متعددة", "https://evastauxeasqz3wahcrvmh.streamlit.app/", use_container_width= True, help="  هذا التطبيق يمكن المستخدمين من الاجابة على الاسئلة ")
 
 #st.link_button("Assay Calculations App ", "https://elnegmelnegm-first-app-ydrlh3.streamlit.app/", use_container_width= True, help="This application enables users to calculate the assay. هذا التطبيق يمكن المستخدمين من حساب نسبة المادة ")
 
